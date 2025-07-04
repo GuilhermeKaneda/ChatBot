@@ -1,0 +1,9 @@
+{
+    "saudacao": "Olá! Como posso ajudar?",
+    "despedida": "Até logo! Volte sempre que precisar.",
+    "agradecimento": "De nada! Fico feliz em ajudar.",
+    "consulta_clientes": "Clientes cadastrados: ",
+    "total_vendas": "Total de vendas: ",
+    "pedidos_cliente": "Últimos pedidos do cliente: ",
+    "fallback": "Desculpe, não entendi. Poderia reformular?"
+}

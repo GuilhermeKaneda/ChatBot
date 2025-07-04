@@ -1,0 +1,5 @@
+{
+    "consulta_clientes": "SELECT id, nome, email FROM clientes LIMIT 10",
+    "total_vendas": "SELECT SUM(valor) AS total FROM vendas",
+    "pedidos_cliente": "SELECT id_pedido, data, valor FROM pedidos ORDER BY data DESC LIMIT 5"
+}

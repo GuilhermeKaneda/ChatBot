@@ -1,0 +1,30 @@
+[
+    {
+        "response_key": "saudacao",
+        "patterns": ["olá", "oi", "bom dia", "boa tarde", "e aí", "saudações"]
+    },
+    {
+        "response_key": "despedida",
+        "patterns": ["tchau", "adeus", "encerrar", "flw"]
+    },
+    {
+        "response_key": "agradecimento",
+        "patterns": ["obrigado", "valeu", "agradeço", "grato", "obrigada"]
+    },
+    {
+        "response_key": "consulta_clientes",
+        "patterns": ["listar clientes", "mostrar usuários", "clientes cadastrados"]
+    },
+    {
+        "response_key": "total_vendas",
+        "patterns": ["vendas totais", "total de vendas", "faturamento"]
+    },
+    {
+        "response_key": "pedidos_cliente",
+        "patterns": ["pedidos do cliente", "histórico de compras", "compras do usuário"]
+    },
+    {
+        "response_key": "fallback",
+        "patterns": ["não entendi", "pode repetir", "não compreendi", "o que é isso?"]
+    }
+]
